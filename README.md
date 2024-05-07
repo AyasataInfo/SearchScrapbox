@@ -10,11 +10,11 @@ After installing FlowLauncher, apply the plugin using the following steps.  (ass
 5. Start FlowLauncher, type "Reload Plugin Data" and press Enter.  
   
 ## How to use  
-# Display pages within the project.  
+### Display pages within the project.  
 > ss [ProjectName]  
 - Up to 50 items can be displayed.
   
-# Search for pages within a project.  
+### Search for pages within a project.  
 > ss [ProjectName] [SearchWord]
 - If the page is not displayed, you can create a new page with the specified name.
   
