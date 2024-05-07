@@ -1,7 +1,7 @@
 ## Applying  
 After installing FlowLauncher, apply the plugin using the following steps.  (assuming it is installed on C drive)  
   
-1. Navigate to C:\Users\[UserName]\AppData\Roaming\FlowLauncher\Plugins  
+1. Navigate to C:\Users\\[UserName]\AppData\Roaming\FlowLauncher\Plugins  
 2. Create a new folder as "Scrapbox".  
 3. Put all files into the created folder.
 4. After moving to the folder created in the command prompt (using "cd" command), execute the following command.
