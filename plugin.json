@@ -1,0 +1,12 @@
+{
+  "ID": "6ef46440-fc69-57a1-df6a-9f2d826bdfc0",
+  "ActionKeyword": "ss",
+  "Name": "SearchScrapbox",
+  "Description": "Find pages within a project in Scrapbox.",
+  "Author": "Ayasata",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "None",
+  "IcoPath": "Images/app.png",
+  "ExecuteFileName": "run.py"
+}

@@ -1,0 +1,2 @@
+flox-lib==0.19.2
+requests[use_chardet_on_py3]==2.27.1
