@@ -1,3 +1,4 @@
+## Applying  
 After installing FlowLauncher, apply the plugin using the following steps.  (assuming it is installed on C drive)  
   
 1. Navigate to C:\Users\<UserName>\AppData\Roaming\FlowLauncher\Plugins  
@@ -5,7 +6,7 @@ After installing FlowLauncher, apply the plugin using the following steps.  (ass
 3. Put all files into the created folder.  
 4. Start FlowLauncher, type "Reload Plugin Data" and press Enter.  
   
-## -- How to use --  
+## How to use  
 ・Display pages within the project.  
 > ss [ProjectName]  
   
@@ -13,5 +14,5 @@ After installing FlowLauncher, apply the plugin using the following steps.  (ass
 > ss [ProjectName] [SearchWord]  
 * If the page is not displayed, you can create a new page with the specified name.  
   
-## -- Note --  
+## Note  
 This plugin is not officially provided by Scrapbox. Please do not inquire about this plugin officially.
