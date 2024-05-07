@@ -7,7 +7,8 @@ After installing FlowLauncher, apply the plugin using the following steps.  (ass
 4. After moving to the folder created in the command prompt (using "cd" command), execute the following command.  
 > pip install -r requirements.txt -t ./lib  
 - If you can't use the pip command, please install pip command.  
-5. Start FlowLauncher, type "Reload Plugin Data" and press Enter.  
+5. Start FlowLauncher, type the command below and press Enter.
+> Reload Plugin Data  
   
 ## How to use  
 ### Display pages within the project.  
