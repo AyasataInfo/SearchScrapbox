@@ -6,7 +6,7 @@
   "Author": "Ayasata",
   "Version": "1.0.0",
   "Language": "python",
-  "Website": "None",
+  "Website": "https://github.com/AyasataInfo/SearchScrapbox",
   "IcoPath": "Images/app.png",
   "ExecuteFileName": "run.py"
 }
