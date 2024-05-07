@@ -13,8 +13,8 @@ After installing FlowLauncher, apply the plugin using the following steps.  (ass
 > ss [ProjectName]  
   
 ・Search for pages within a project.  
-> ss [ProjectName] [SearchWord]  
-* If the page is not displayed, you can create a new page with the specified name.  
+> ss [ProjectName] [SearchWord]
+- If the page is not displayed, you can create a new page with the specified name.  
   
 ## Note  
 This plugin is not officially provided by Scrapbox. Please do not inquire about this plugin officially.
