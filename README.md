@@ -1,3 +1,8 @@
+## About
+This plugin can be used with FlowLauncher.
+It allows you to search or create a page in project created with Scrapbox (https://scrapbox.io/).
+It was developed to provide quick access to a desired page immediately by eliminating the process of operating the web browser as much as possible.
+
 ## Applying  
 After installing FlowLauncher, apply the plugin using the following steps.  (assuming it is installed on C drive)  
   
