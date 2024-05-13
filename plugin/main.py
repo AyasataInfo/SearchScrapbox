@@ -4,8 +4,6 @@ import urllib.parse
 import json
 
 BASE_URL = "https://scrapbox.io/"
-MAX_THREADS = 10
-DEFAULT_SEARCH_LIMIT = 10
 
 class SearchScrapbox(Flox):
     def query(self, query):
