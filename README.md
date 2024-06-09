@@ -4,7 +4,8 @@ It allows you to search or create a page in project created with Scrapbox (https
 It was developed to provide quick access to a desired page immediately by eliminating the process of operating the web browser as much as possible.  
   
 ## Applying  
-
+Open FlowLauncher and run the following command  
+> pm install SearchScrapbox  
   
 ## How to use  
 ### Display pages within the project.  
