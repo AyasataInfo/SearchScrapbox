@@ -17,4 +17,4 @@ Open FlowLauncher and run the following command
 - If the page is not displayed, you can create a new page with the specified name.
   
 ## Note  
-This plugin is not officially provided by Scrapbox. Please do not inquire about this plugin officially.
+This plugin is not officially provided by Scrapbox. Please don't contact the official regarding this plugin.
